@@ -1,0 +1,18 @@
+body {
+font-family: Georgia, serif;
+font-size: 15px;
+letter-spacing: 1px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+height: 100vh;
+color: #f8ff00;
+background: #333333;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #f8ff00, 0 0 30px #f8ff00, 0 0 40px #f8ff00, 0 0 55px #f8ff00, 0 0 75px #f8ff00;
+color: #FFFFFF;
+background: #232323;
+}
