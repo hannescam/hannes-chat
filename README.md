@@ -8,4 +8,4 @@ To install, simply execute the following command as root or using `sudo` (which 
 ```bash
 sudo install.sh
 ```
-should i host this on my server pleae vote in the discussions (until 5 votes are reached)
+should i host this on my server pleae vote in the discussions (until 5 votes are reached) the discossion: https://github.com/hannescam/hannes-chat/discussions/2
